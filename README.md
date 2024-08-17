@@ -1,8 +1,3 @@
-# Semantic_Search
-Semantic Search Engine Using the MIND Dataset
-
-
-```markdown
 # Semantic Search Engine Using the MIND Dataset
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -109,4 +104,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or issues, please reach out to me.
 
-```
+
